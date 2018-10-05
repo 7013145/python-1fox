@@ -48,3 +48,13 @@ class OneFox:
         self.error_check(result)
         return result['response']
 
+    def user_deposit(self, currency='BTC'):
+        resource = self.resource_header + "user/deposit.php"
+        params = {
+            "token": self.api_token,
+            "currency": currency
+        }
+        result = httpGet(self.url_base, resource, params)
+        self.error_check(result)
+        return result['response']
+
