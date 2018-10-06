@@ -14,3 +14,5 @@ user_overview_bch = onefox_client.user_overview(currency='BCH')
 
 user_dead_man_switch = onefox_client.user_dead_man_switch(['BTCUSD', 'ETHUSD'], stop=False)
 ```
+
+See official documentation for full list of methods, and explanations of parameters.
