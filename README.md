@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/7013145/python-1fox.svg?style=social)](https://github.com/7013145/python-1fox/issues)
+[![GitHub forks](https://img.shields.io/github/forks/7013145/python-1fox.svg?style=social)](https://github.com/7013145/python-1fox/network)
+[![GitHub stars](https://img.shields.io/github/stars/7013145/python-1fox.svg?style=social)](https://github.com/7013145/python-1fox/stargazers)
 # python-1fox
 A python implementation of the [1Fox](https://1fox.com/?t=1cv) API.
 
