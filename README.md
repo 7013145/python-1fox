@@ -19,4 +19,13 @@ user_overview_bch = onefox_client.user_overview(currency='BCH')
 user_dead_man_switch = onefox_client.user_dead_man_switch(['BTCUSD', 'ETHUSD'], stop=False)
 ```
 
-See official documentation for full list of methods, and explanations of parameters.
+See [official documentation](https://1fox.com/?c=en/content/api-documentation?t=1cv) for full list of methods, and explanations of parameters.
+
+## found it useful?
+BTC : 392Hhbq82th5cNFLbNmX1RwUQDTPyfGYbt
+
+BCH : bitcoincash:qq5wyu87ysypp7qxhq7qxqufkd3tdhud5vldjszw3q
+
+BCH*: 14jBJ6ZsKyhcN2SbwZxbyRYq68sw889NMD
+
+\* translated address
